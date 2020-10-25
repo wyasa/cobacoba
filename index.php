@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Mahasiswa Universitas Bumigora</title>
+	<title>Mahasiswa Universitas Bumigora dong</title>
 	<link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
 </head>
 <body>
